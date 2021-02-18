@@ -11,4 +11,4 @@ function counter(arr) {
   return count;
 }
 
-console.log(counter([1, -1, 0, 10, 38, 50, 44, -9876, -38, 50, -50, 0]));
+console.log(counter([1, -1, 0, 10, 38, 50, 44, -9876, -38, -50, 49]));
